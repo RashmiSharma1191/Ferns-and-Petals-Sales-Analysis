@@ -47,32 +47,32 @@ Dashboard 2: Customer & Order Insights
 📊 Dashboards Overview
 Page 1 — Sales & Product Performance
 
-Monthly Revenue (Line Chart) – August highest (₹7.37L)
+1. Monthly Revenue (Line Chart) – August highest (₹7.37L)
 
-Revenue by Category (Column Chart) – Colors lead with ₹10.05L
+2. Revenue by Category (Column Chart) – Colors lead with ₹10.05L
 
-Revenue by Day (Bar Chart) – Tuesday highest at ₹6.77L
+3. Revenue by Day (Bar Chart) – Tuesday highest at ₹6.77L
 
-Top 5 Products by Revenue (Donut Chart) – Magnam Set (22%)
+4. Top 5 Products by Revenue (Donut Chart) – Magnam Set (22%)
 
-Revenue by Occasion (Bar Chart) – Anniversary highest at ₹6.74L
+5. Revenue by Occasion (Bar Chart) – Anniversary highest at ₹6.74L
 
-Revenue & Quantity by City (Column + Area Chart)
+6. Revenue & Quantity by City (Column + Area Chart)
 - Slicers: Gender, Occasion, Order Date Timeline
 
 Page 2 — Customer & Order Insights
 
-Orders by Gender (Donut) – Female > Male
+1. Orders by Gender (Donut) – Female > Male
 
-Top 5 Cities by Orders (Bar) – Imphal (29)
+2. Top 5 Cities by Orders (Bar) – Imphal (29)
 
-Occasion by Gender (Stacked Column) – Anniversary, majorly by males (53,308 value)
+3. Occasion by Gender (Stacked Column) – Anniversary, majorly by males (53,308 value)
 
-Delivery Time Distribution (Line) – ~60 orders delivered in 8 days
+4. Delivery Time Distribution (Line) – ~60 orders delivered in 8 days
 
-Peak Order Hour (Line) – 9th hour
+5. Peak Order Hour (Line) – 9th hour
 
-Top 10 Frequent Buyers – Customer ID C044 purchased 17 items
+6. Top 10 Frequent Buyers – Customer ID C044 purchased 17 items
 - Slicers: Gender, Occasion
 
 ## 🛠 Tools Used
