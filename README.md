@@ -54,7 +54,8 @@ To further enhance the business value derived from this analysis:
 
 ## 🖼️ Dashboard
 **Visual Overview:** Here is a snapshot of the final interactive dashboard.
-`!([images/dashboard_overview.png](https://github.com/RashmiSharma1191/Ferns-and-Petals-Sales-Analysis/blob/main/FNP%20-%20sales%20dashbaord.png))`
+`!(https://github.com/RashmiSharma1191/Ferns-and-Petals-Sales-Analysis/blob/main/FNP%20-%20sales%20dashbaord.png)`
+
 **(Note: The complete analysis and workbook are available in the repository files.)**
 
 ## 📘 Project Learnings
